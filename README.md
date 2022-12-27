@@ -17,5 +17,6 @@ $ pip install torchvision-0.14.0a0+5ce4506-cp39-cp39-linux_aarch64.whl
 https://drive.google.com/file/d/1AhbkLqKd8EZO2pZV_g9aFZGHZo2Ubc3O/view?usp=share_link
 </br>
 If you have another python version check another alternatives in this link:
+</br>
 https://github.com/Qengineering/PyTorch-Raspberry-Pi-64-OS
 
